@@ -35,10 +35,6 @@ Get an API key from Google AI Studio
 
 Replace the API_KEY constant in script.js with your key
 
-Community
-Join our Discord community for support and updates:
-https://img.shields.io/discord/your-discord-server-id?color=5865F2&logo=discord&logoColor=white
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/b1lal4real/devforge-ai)
 ![GitHub repo size](https://img.shields.io/github/repo-size/b1lal4real/devforge-ai)
 ![GitHub license](https://img.shields.io/github/license/b1lal4real/devforge-ai)
